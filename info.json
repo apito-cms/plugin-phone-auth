@@ -3,6 +3,5 @@
   "icon": "https://app.apito.io/static/pages/console/settings/extension/aws-lambda.svg",
   "description": "Phone Authentication Support",
   "type": 0,
-  "configs": null,
   "exported_variable": "PhoneAuth"
 }
